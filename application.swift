@@ -1,0 +1,1 @@
+last_node = last_node.next
